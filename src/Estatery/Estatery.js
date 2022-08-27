@@ -5,7 +5,7 @@ const API_ESTATE = "https://swapi.dev/api/films";
 
 const data = [
   {
-    location: "API_data",
+    location: "India",
     when: "today",
     price: "500",
     property_type: "rent",
