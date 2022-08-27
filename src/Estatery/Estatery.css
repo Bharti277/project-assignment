@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+}
+.search-filter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-filter form{
+    display: flex;
+}
+.search-filter .column {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+.search-filter .column label{
+    padding: 20px;
+    text-align: center;
+}
+.search-btn{
+    display: flex;
+}
+.fetch-list{
+    display: flex;
+}
+.fetch-list .list{
+    width: 100%;
+    border: 2px solid #ccc;
+    margin: 20px;
+}
