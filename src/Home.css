@@ -1,6 +1,10 @@
 .home {
   text-align: center;
 }
+.table{
+  display: flex;
+  justify-content: center;
+}
 table,
 th,
 td {

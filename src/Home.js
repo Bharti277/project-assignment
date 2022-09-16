@@ -57,7 +57,7 @@ function Home() {
 
   return (
     <div className="home">
-      <h1>Welcome to home</h1>
+      <h1>Welcome to Intraday Data</h1>
       <div className="table">
         <table>
           <thead>
