@@ -7,7 +7,6 @@ const GET_API =
 function Home() {
   const [data, setData] = useState("");
   const [trading, setTrading] = useState([]);
-  const mydataArr = [];
 
   useEffect(() => {
     fetch(GET_API)
