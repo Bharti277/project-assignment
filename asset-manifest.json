@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project-assignment/static/css/main.4a10ab88.css",
-    "main.js": "/project-assignment/static/js/main.99f99bc5.js",
-    "index.html": "/project-assignment/index.html",
-    "main.4a10ab88.css.map": "/project-assignment/static/css/main.4a10ab88.css.map",
-    "main.99f99bc5.js.map": "/project-assignment/static/js/main.99f99bc5.js.map"
+    "main.css": "/trading-data/static/css/main.4a10ab88.css",
+    "main.js": "/trading-data/static/js/main.99f99bc5.js",
+    "index.html": "/trading-data/index.html",
+    "main.4a10ab88.css.map": "/trading-data/static/css/main.4a10ab88.css.map",
+    "main.99f99bc5.js.map": "/trading-data/static/js/main.99f99bc5.js.map"
   },
   "entrypoints": [
     "static/css/main.4a10ab88.css",
